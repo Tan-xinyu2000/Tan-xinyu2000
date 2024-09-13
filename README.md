@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Xinyu Tan
 
 <!--
 **Tan-xinyu2000/Tan-xinyu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<h1 align="center">Hi 👋, I'm Xinyu Tan</h1> 
-<h3 align="center">A passionate learner and data explorer</h3> 
+### A passionate learner and data explorer</h3> 
  
 - 🔭 I’m currently working on **building my github** 
  
