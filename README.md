@@ -2,8 +2,8 @@
 **Tan-xinyu2000/Tan-xinyu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1> Hi there 👋, I'm Xinyu Tan 😄 </h1> 
-<h4> A passionate learner and data explorer</h4> 
+<h1 align = 'center'> Hi there 👋, I'm Xinyu Tan 😄 </h1> 
+<h4 align = 'center'> A passionate learner and data explorer</h4> 
  
 - 🔭 I’m currently working on **building my github** 
  
