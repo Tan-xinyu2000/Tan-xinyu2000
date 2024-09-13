@@ -3,7 +3,7 @@
 -->
 
 <h1> Hi there 👋, I'm Xinyu Tan 😄 </h1> 
-<h3> A passionate learner and data explorer</h3> 
+<h4> A passionate learner and data explorer</h4> 
  
 - 🔭 I’m currently working on **building my github** 
  
