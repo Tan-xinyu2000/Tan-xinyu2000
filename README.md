@@ -10,7 +10,7 @@
 <p align="left"> 
 <a href="https://kaggle.com/xxxxxxxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xxxxxxxxx" height="20" width="20" /></a> 
 <a href="https://instagram.com/tan_xy2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tan_xy2000" height="20" width="20" /></a> 
-<a href=https://www.hackerrank.com/profile/xinyutan2000 target="blank"><img align="center" src="xxxx" alt="@xinyutan2000" height="30" width="40" /></a> 
+<a href=https://www.hackerrank.com/profile/xinyutan2000 target="blank"><img align="center" src="https://github.com/Tan-xinyu2000/Tan-xinyu2000/blob/main/HackerRank_Icon-1000px.png" alt="@xinyutan2000" height="20" width="20" /></a> 
 </p> 
 
 <!--
