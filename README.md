@@ -13,4 +13,4 @@
 <a href=https://www.hackerrank.com/profile/xinyutan2000 target="blank"><img align="center" src="xxxx" alt="@xinyutan2000" height="30" width="40" /></a> 
 </p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxxxxxxx&show_icons=true&locale=en&layout=compact" alt="xxxxxxxx" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tan-xinyu2000&show_icons=true&locale=en&layout=compact" alt="Tan-xinyu2000" /></p> 
